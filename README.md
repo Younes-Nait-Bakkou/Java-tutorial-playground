@@ -12,24 +12,33 @@ Welcome to my Java Tutorial Playground! This repository is a personal space wher
 
 1. **Clone the Repository**:
 
-git clone https://github.com/yourusername/java-tutorial-playground.git
+```
+git clone https://github.com/Younes-Nait-Bakkou/java-tutorial-playground.git
 cd java-tutorial-playground
+```
 
 2. **Run the Code**:
 Navigate to any example in the `src/` directory, compile, and run it:
 
+```
 javac MyExample.java
-java MyExample
+java  MyExample
+```
 
 ## Project Structure
 
+```
 java-tutorial-playground/
 ├── src/
-│ ├── basics/
-│ ├── oops/
-│ └── data_structures/
+│ ├── main/
+│ └── test/
+├── bin/
+│ ├── main/
+│ └── test/
+├── lib/
 ├── README.md
 └── LICENSE.txt
+```
 
 ## License
 
